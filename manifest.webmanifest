@@ -1,0 +1,9 @@
+{
+  "name": "Focus XII \u2014 CBSE Class 12 PCM",
+  "short_name": "Focus XII",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#111827",
+  "description": "CBSE Class 12 Physics Chemistry Mathematics daily study planner"
+}
